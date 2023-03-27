@@ -20,19 +20,25 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(255, 222, 209);
     padding: 10px 20px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: rgb(255, 222, 215);
     min-height: 150px;
+    font-size: 25px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
 }
 .content {
     background-color: white;
     min-height: 300px;
     padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: rgb(255, 222, 215);
     min-height: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
